@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <PackageId>MoneyExtension</PackageId>
+    <PackageId>Teste123MoneyExtension</PackageId>
     <Version>1.0.0</Version>
     <License>MIT</License>
     <Authors>Matheus Barboza dos Santos</Authors>
