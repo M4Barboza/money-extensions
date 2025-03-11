@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
 
     <PackageId>00C04F79EFBCMoneyExtensions</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <License>MIT</License>
     <Authors>Matheus Barboza dos Santos</Authors>
     <PackageDescription>Money extension for C#</PackageDescription>
